@@ -1,0 +1,1 @@
+-la frecventa cea mai mare valoare de pe axa x ar trebuie sa fie fNq

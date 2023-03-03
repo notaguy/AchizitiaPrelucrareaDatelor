@@ -1,0 +1,115 @@
+[filtrumediere]
+Class="Function"
+Prototype="double *filtrumediere(int n);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:73:9"
+
+[filtruO1]
+Class="Function"
+Prototype="double *filtruO1(double alpha);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:94:9"
+
+[main]
+Class="Function"
+Prototype="int main(int argc, char *argv[]);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:105:5"
+
+[OnMainPanelCB]
+Class="Function"
+Prototype="int OnMainPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:126:17"
+
+[On_Load]
+Class="Function"
+Prototype="int On_Load(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:150:17"
+
+[On_Load_Histo]
+Class="Function"
+Prototype="int On_Load_Histo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:213:17"
+
+[On_Load_Deriv]
+Class="Function"
+Prototype="int On_Load_Deriv(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:225:17"
+
+[On_Exit_Deriv]
+Class="Function"
+Prototype="int On_Exit_Deriv(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:237:17"
+
+[On_Exit_Histo]
+Class="Function"
+Prototype="int On_Exit_Histo(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:250:17"
+
+[On_Histo_Panel]
+Class="Function"
+Prototype="int On_Histo_Panel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:262:17"
+
+[On_Deriv_Panel]
+Class="Function"
+Prototype="int On_Deriv_Panel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:291:17"
+
+[On_filtru]
+Class="Function"
+Prototype="int On_filtru(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:317:17"
+
+[On_aplica]
+Class="Function"
+Prototype="int On_aplica(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:354:17"
+
+[On_Next_Prev]
+Class="Function"
+Prototype="int On_Next_Prev(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:371:17"
+
+[On_Anvelopa]
+Class="Function"
+Prototype="int On_Anvelopa(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:531:17"
+
+[OnAcquisitionPanel]
+Class="Function"
+Prototype="int OnAcquisitionPanel(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:550:17"
+
+[On_switchPanel]
+Class="Function"
+Prototype="int On_switchPanel(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:568:17"
+
+[On_Spectru]
+Class="Function"
+Prototype="int On_Spectru(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:592:17"
+
+[On_Next_Prev2]
+Class="Function"
+Prototype="int On_Next_Prev2(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:695:17"
+
+[On_tipFereastra]
+Class="Function"
+Prototype="int On_tipFereastra(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:744:17"
+
+[On_tipFiltru]
+Class="Function"
+Prototype="int On_tipFiltru(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:756:17"
+
+[On_ordin]
+Class="Function"
+Prototype="int On_ordin(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:768:17"
+
+[On_SpectrupeFiltrare]
+Class="Function"
+Prototype="int On_SpectrupeFiltrare(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c:780:17"
+

@@ -1,0 +1,1 @@
+-force-include-file "1.c";"d:\FACULTATE\Anul3\Semestrul1\APD_P\1.c" -force-include-file "1.h";"d:\FACULTATE\Anul3\Semestrul1\APD_P\1.h" 

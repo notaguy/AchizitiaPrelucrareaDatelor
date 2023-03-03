@@ -1,0 +1,5 @@
+[OnAcquisitionPanelCB]
+Class="Function"
+Prototype="int OnAcquisitionPanelCB(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+SourceLocation="d:\FACULTATE\Anul3\Semestrul1\APD_P\SwitchPanels\Acquisition.c:36:17"
+
